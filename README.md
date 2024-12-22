@@ -1,4 +1,4 @@
-<div style="background-color: #1e1e2e; color: #ffffff; padding: 20px; border-radius: 10px;">
+<div theme=dark style="background-color: #1e1e2e; color: #ffffff; padding: 20; border-radius: 10;">
 
   <div align="center">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
